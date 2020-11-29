@@ -10,7 +10,6 @@ export default function Weather() {
     image: "http://openweathermap.org/img/wn/10d@2x.png",
     humidity: 82,
     wind: 1,
-    temperature: 0
   };
   return (
     <div className="container">
