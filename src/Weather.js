@@ -91,5 +91,7 @@ export default function Weather() {
       </div>
       <div className="row" id="forecastTemperature" alt="clear"></div>
     </div>
+    
   );
 }
+<small><a href="https://github.com/CiaoC/weatherweekfour" target="_blank">Open-Source code</a> by Cindy Chau</small>
